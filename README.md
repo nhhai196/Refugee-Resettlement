@@ -26,7 +26,7 @@ There are 2 folders, Refugee-Resettelment for weak accomodate, and Refugee-Reset
   - countStrongEnvies.m, numberOfMatchedFamilies.m, averagePreferenceRank.m, averagePreferenceRankAll.m, cdfPreference.m, cdfPreferenceAll.m, averageUnfilledQuota.m, 
   averageMatchedPriority.m, averagefamsize.m, matchingToEW.m,... are for statistics.
   
-  - Other functions like findCyles.m, findMostPreferred.m, getPriority.m,... are self-contained with local comments.  
+  - Other functions like findCyles.m, findMostPreferred.m, getPriority.m,... are sub-procedures for implemeting the 4 alogrithms. They are self-contained with local comments.  
   
 
 
