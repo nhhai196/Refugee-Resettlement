@@ -7,7 +7,7 @@ There are two folders: folder "Refugee-Resettelment" handles weak accomodation, 
   
   - main.m is the main program. The program outputs simulation results (stored in Excel files).
   
-    Important parameters in the main program:
+  - Important parameters in the main program:
       1. dim: the number of constraints/dimensions, usually set it to 1 or 3. 
       2. pickfam: the order to pick family in the MTTCE algorithm, usually set it to 0 (random), 1 (ascending on size), 2 (descending on size)
       
