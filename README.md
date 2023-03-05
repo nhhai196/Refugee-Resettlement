@@ -1,7 +1,7 @@
 # Refugee-Resettlement
 
 This repository contains the code that implements the algorithms in the paper "Matching Mechanisms for Refugee Resettlement". 
-There are 2 folders, ``Refugee-Resettelment'' that handles weak accomodation, and ``Refugee-Resettlement-Accom'' that handles accomodation. They are almost identical except the prodcedure implemented in the "weakAccomodate.m". 
+There are two folders: Refugee-Resettelment that handles weak accomodation, and Refugee-Resettlement-Accom that handles accomodation. They are almost identical except the prodcedure implemented in the "weakAccomodate.m". 
 
   - Folder "Data" contains all the data for simulations. The current program uses the data in Data/FY17_size.xlsx, Data/FY17_cap.xlsx, Data/FY17_Employment_weight.xlsx, Data/FY17_Compatibility.xlsx. 
   
