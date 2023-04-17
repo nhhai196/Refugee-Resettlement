@@ -1,4 +1,4 @@
-# Refugee-Resettlement
+# Matching Mechanisms for Refugee Resettlement
 
 This repository contains the code that implements the algorithms in the paper "Matching Mechanisms for Refugee Resettlement". 
 There are two folders: folder "Refugee-Resettelment" handles weak accomodation, and folder "Refugee-Resettlement-Accom" handles accomodation. They are almost identical except for the prodcedure implemented in file weakAccomodate.m. 
